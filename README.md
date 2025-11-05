@@ -19,7 +19,7 @@ Supported integration modes:
 - Installation through **CMake** (`add_subdirectory`, `find_package(boost_mp11)`)
 - Integration within the Boost build system (B2 / Jam)
 
-Repository: [https://github.com/thomgit9/mp11](https://github.com/thomgit9/mp11)
+Repository: [https://github.com/boostorg/mp11 ](https://github.com/boostorg/mp11 )
 
 Maintained primarily by [Peter Dimov](https://github.com/pdimov) and the Boost community.
 
