@@ -29,7 +29,7 @@ Maintained primarily by [Peter Dimov](https://github.com/pdimov) and the Boost c
 
 ### Option 1 — Standalone (Header‑only)
 ```bash
-git clone https://github.com/thomgit9/mp11.git
+git clone https://github.com/boostorg/mp11.git
 cd mp11
 ```
 Simply add the `include` directory to your project’s header search path:
